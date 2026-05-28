@@ -4,6 +4,10 @@ Repositorio para el lab de visualizaciones de datos - grupo 4 (Marketing).
 
 Stack: **PostgreSQL 15** + **Metabase** vía Docker Compose.
 
+credenciales Metabase:
+    Correo: calificar@uvg.edu.gt
+    Contraseña: secret123+ 
+
 ---
 
 ## Requisitos
@@ -80,7 +84,7 @@ Al entrar por primera vez, Metabase pedirá configurar una fuente de datos. Usar
 | Puerto   | `5432`             |
 | Base de datos | `retailmax`   |
 | Usuario  | `postgres`         |
-| Contraseña | `postgres_password` (o la que pusiste en `.env`) |
+| Contraseña | `postgres_password` |
 
 > El host es `db` (nombre del servicio en docker-compose), **no** `localhost`.
 
