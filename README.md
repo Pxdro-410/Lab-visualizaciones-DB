@@ -103,6 +103,8 @@ El flag `-v` elimina los volúmenes persistentes de PostgreSQL.
 
 ---
 
+### Link del video: https://youtu.be/oT_xfBCjhu8
+
 ## Estructura del proyecto
 
 ```
